@@ -189,6 +189,13 @@ body, html {
   }
 }
 
+@media only screen and (max-width: 900px) {
+  .content .text{
+    font-weight: 650;
+    font-size: 15px;
+  }
+}
+
 @media only screen and (max-width: 600px) {
   .content .text{
     font-weight: 600;
